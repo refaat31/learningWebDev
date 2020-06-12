@@ -1,0 +1,24 @@
+{
+  "name": "learningwebdev",
+  "version": "1.0.0",
+  "description": "MOOC Course by HKUST on Coursera",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refaat31/learningWebDev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/refaat31/learningWebDev/issues"
+  },
+  "homepage": "https://github.com/refaat31/learningWebDev#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
