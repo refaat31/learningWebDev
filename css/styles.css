@@ -17,15 +17,28 @@
 
 }
 
-.jumbotron{
-    padding: 70px 30px 70px 30px;
-    margin: 0px;
-    background:#1cb1b6;
- 
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #9575CD ;
+    color:floralwhite;
 }
 
 .address{
     font-size:80%;
     margin:0px;
     color:#0f0f0f;
+}
+
+.customfont{
+    color:black;
+}
+
+.carousel-indicators li {
+    height: 10px;
+    width: 10px;
+  
+    border-radius: 50%;
+    
+   
 }
